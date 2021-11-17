@@ -1,2 +1,2 @@
-# Banco_de_Dados_Spotify
+# Banco de Dados - Spotify
 Um banco de dados pra simular como funcionaria o spotify.
